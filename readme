@@ -1,0 +1,7 @@
+1) modify ./back-end/controller.js user info (username and password) for mariadb.
+
+2) open ./database and run mariasql, 'source Fabicon_Gagpanan_Uy.sql' to import database
+
+3) start ./back-end/server.js using nodejs, 'nodejs server.js'
+
+4) while on ./, 'npm start' to start ReactJS
